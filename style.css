@@ -1,0 +1,17 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#canvas {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("resources/images/sea-background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
